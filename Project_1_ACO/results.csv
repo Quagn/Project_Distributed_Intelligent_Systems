@@ -1,0 +1,5 @@
+Algorithm,Success,Path Length,Time (s)
+ACO,True,18,1.8244
+A*,True,18,0.0021
+BFS,True,18,0.003
+DFS,True,44,0.0015

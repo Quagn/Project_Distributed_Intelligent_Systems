@@ -1,0 +1,10 @@
+# Bỏ qua file hệ thống của Windows
+desktop.ini
+
+# Bỏ qua thư mục tạm thời
+*.log
+*.tmp
+
+# Bỏ VSCode hoặc IDE files nếu bạn dùng
+.vscode/
+.idea/

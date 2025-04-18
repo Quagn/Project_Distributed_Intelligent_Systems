@@ -1,0 +1,4 @@
+Kiến trúc phản ứng với mạng nơ ron nhân tạo điều khiển robot e-puck tránh va chạm (slide 20, 21). 
+Học viên phát triển chương trình điều khiển trên Webots, 
+nộp báo cáo thiết kế thuật toán và thử nghiệm đánh giá kết quả ở định dạng pdf kèm video thí nghiệm 
+và mã nguồn chương trình.

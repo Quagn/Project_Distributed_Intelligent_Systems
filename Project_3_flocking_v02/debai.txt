@@ -1,0 +1,9 @@
+Mô phỏng nhóm Agent ảo di chuyển theo bầy sử dụng mô hình hành vi của Reynolds. 
+Mỗi Agent được coi là một chất điểm hoạt động trong không gian 2D, hoạt động trong hai trường hợp: 
+1) môi trường không vật cản; 
+2) môi trường có vật cản là các hình tròn hoặc hình đa giác. 
+Nhóm Agent có nhiệm vụ di chuyển theo một quỹ đạo cho trước (predefined path). 
+Đánh giá chỉ số đồng thuận hướng (order) và chỉ số tập trung bầy (entropy) cho mỗi thí nghiệm. 
+Mô phỏng có thể thực hiện trên bất kể nền tảng, ngôn ngữ lập trình nào.
+
+Yêu cầu: nộp báo cáo định dạng pdf kèm video các thí nghiệm và mã nguồn chương trình.

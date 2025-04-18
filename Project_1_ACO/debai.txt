@@ -1,0 +1,6 @@
+Áp dụng ACO trong bài toán tìm đường đi của robot, so sánh kết quả với các 
+giải thuật tìm đường khác như DFS, BFS, A*, D*, RRT,... 
+Sử dụng bản độ lưới (grid map) để thực hiện thí nghiệm.
+
+Yêu cầu: nộp báo cáo định dạng Pdf viết dưới dạng Scienticfic paper; 
+video thí nghiêm và mã nguồn.

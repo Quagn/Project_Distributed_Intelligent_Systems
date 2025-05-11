@@ -1,0 +1,15 @@
+Bài tập 3.2 Coverage with Voronoi partition
+
+Due May 8 by 11:59pm Points 0 Submitting a file upload 
+Available May 3 at 12am - May 9 at 11:59pm
+
+Cho trước một vùng cần giám sát có dạng đa giác lồi 
+(convex) trong không gian 2D. 
+Thông tin cần tìm kiếm trong vùng tuân theo hàm phân 
+bố Phi=exp(-x^2-y^2). 
+Sử dụng phương pháp phân vùng Voronoi, hay xây dựng 
+chương trình điều khiển phân tán để bầy robot có thể 
+bao phủ tốt nhất khu vực thông tin cần tìm kiếm.
+
+Yêu cầu: học viên nộp báo cáo định dạng pdf, 
+video thí nghiệm và mã nguồn chương trình.
